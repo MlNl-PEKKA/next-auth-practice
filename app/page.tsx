@@ -1,5 +1,5 @@
-import { ModeToggle } from "@/components/mode-toggle";
+import { LoginForm } from "@/components/login-form";
 
 export default function Home() {
-  return <ModeToggle />;
+  return <LoginForm />;
 }
