@@ -43,3 +43,6 @@ yarn-error.log*
 
 # shadcn - ui
 /components/ui
+
+#migrate.ts
+/migrate.ts
